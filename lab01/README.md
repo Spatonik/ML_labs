@@ -13,4 +13,4 @@
 ![Тенденция по годам по всем странам](https://github.com/Spatonik/ML_labs/blob/main/lab01/plots/plot1.png)
 
 
-![Тенденция по топ-5 странам по годам]()
+![Тенденция по топ-5 странам по годам](https://github.com/Spatonik/ML_labs/blob/main/lab01/plots/plot2.png)
