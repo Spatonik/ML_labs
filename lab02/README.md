@@ -9,7 +9,7 @@
 
 ## Рисунки
 
-![Генерация фигур]()
+![Генерация фигур](https://github.com/Spatonik/ML_labs/blob/main/lab02/images/image.jpg)
 
 
 ![Распознование фигур](https://github.com/Spatonik/ML_labs/blob/main/lab02/images/image1.jpg)
